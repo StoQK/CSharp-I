@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\13. NullIntegerDoubleValues\bin\Debug\_13.NullIntegerDoubleValues.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\13. NullIntegerDoubleValues\bin\Debug\_13.NullIntegerDoubleValues.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\13. NullIntegerDoubleValues\bin\Debug\_13.NullIntegerDoubleValues.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\13. NullIntegerDoubleValues\obj\Debug\_13.NullIntegerDoubleValues.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\13. NullIntegerDoubleValues\obj\Debug\_13.NullIntegerDoubleValues.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\11. ValuesExchange\bin\Debug\_11.ValuesExchange.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\11. ValuesExchange\bin\Debug\_11.ValuesExchange.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\11. ValuesExchange\bin\Debug\_11.ValuesExchange.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\11. ValuesExchange\obj\Debug\_11.ValuesExchange.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\11. ValuesExchange\obj\Debug\_11.ValuesExchange.pdb

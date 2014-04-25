@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\14. BankAccountInformation\bin\Debug\_14.BankAccountInformation.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\14. BankAccountInformation\bin\Debug\_14.BankAccountInformation.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\14. BankAccountInformation\bin\Debug\_14.BankAccountInformation.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\14. BankAccountInformation\obj\Debug\_14.BankAccountInformation.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\14. BankAccountInformation\obj\Debug\_14.BankAccountInformation.pdb

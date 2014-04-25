@@ -1,0 +1,8 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\12. PrintASCIITable\bin\Debug\_12.PrintASCIITable.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\12. PrintASCIITable\bin\Debug\_12.PrintASCIITable.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\12. PrintASCIITable\bin\Debug\_12.PrintASCIITable.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\12. PrintASCIITable\obj\Debug\_12.PrintASCIITable.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\12. PrintASCIITable\obj\Debug\_12.PrintASCIITable.pdb
+D:\Telerik\Academy\Homeworks\2. Примитивни типове данни и променливи\PrimitiveDataTypes\12. PrintASCIITable\bin\Debug\_12.PrintASCIITable.exe.config
+D:\Telerik\Academy\Homeworks\2. Примитивни типове данни и променливи\PrimitiveDataTypes\12. PrintASCIITable\obj\Debug\_12.PrintASCIITable.exe
+D:\Telerik\Academy\Homeworks\2. Примитивни типове данни и променливи\PrimitiveDataTypes\12. PrintASCIITable\obj\Debug\_12.PrintASCIITable.pdb

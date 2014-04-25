@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\07. TypeCastHelloWorld\bin\Debug\_07.TypeCastHelloWorld.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\07. TypeCastHelloWorld\bin\Debug\_07.TypeCastHelloWorld.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\07. TypeCastHelloWorld\bin\Debug\_07.TypeCastHelloWorld.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\07. TypeCastHelloWorld\obj\Debug\07. TypeCastHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\07. TypeCastHelloWorld\obj\Debug\_07.TypeCastHelloWorld.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\07. TypeCastHelloWorld\obj\Debug\_07.TypeCastHelloWorld.pdb

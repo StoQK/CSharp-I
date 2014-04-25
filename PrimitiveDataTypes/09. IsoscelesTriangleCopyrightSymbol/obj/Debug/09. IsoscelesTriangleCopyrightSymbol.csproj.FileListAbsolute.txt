@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\09. IsoscelesTriangleCopyrightSymbol\bin\Debug\_09.IsoscelesTriangleCopyrightSymbol.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\09. IsoscelesTriangleCopyrightSymbol\bin\Debug\_09.IsoscelesTriangleCopyrightSymbol.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\09. IsoscelesTriangleCopyrightSymbol\bin\Debug\_09.IsoscelesTriangleCopyrightSymbol.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\09. IsoscelesTriangleCopyrightSymbol\obj\Debug\09. IsoscelesTriangleCopyrightSymbol.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\09. IsoscelesTriangleCopyrightSymbol\obj\Debug\_09.IsoscelesTriangleCopyrightSymbol.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\09. IsoscelesTriangleCopyrightSymbol\obj\Debug\_09.IsoscelesTriangleCopyrightSymbol.pdb

@@ -1,0 +1,9 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\01. VariableDeclaration\bin\Debug\_01.VariableDeclaration.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\01. VariableDeclaration\bin\Debug\_01.VariableDeclaration.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\01. VariableDeclaration\bin\Debug\_01.VariableDeclaration.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\01. VariableDeclaration\obj\Debug\01. VariableDeclaration.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\01. VariableDeclaration\obj\Debug\_01.VariableDeclaration.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\01. VariableDeclaration\obj\Debug\_01.VariableDeclaration.pdb
+D:\Telerik\Academy\Homeworks\2. Примитивни типове данни и променливи\PrimitiveDataTypes\01. VariableDeclaration\bin\Debug\_01.VariableDeclaration.exe.config
+D:\Telerik\Academy\Homeworks\2. Примитивни типове данни и променливи\PrimitiveDataTypes\01. VariableDeclaration\obj\Debug\_01.VariableDeclaration.exe
+D:\Telerik\Academy\Homeworks\2. Примитивни типове данни и променливи\PrimitiveDataTypes\01. VariableDeclaration\obj\Debug\_01.VariableDeclaration.pdb

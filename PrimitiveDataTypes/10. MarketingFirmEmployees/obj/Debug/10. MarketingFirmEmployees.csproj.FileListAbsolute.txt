@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\10. MarketingFirmEmployees\bin\Debug\_10.MarketingFirmEmployees.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\10. MarketingFirmEmployees\bin\Debug\_10.MarketingFirmEmployees.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\10. MarketingFirmEmployees\bin\Debug\_10.MarketingFirmEmployees.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\10. MarketingFirmEmployees\obj\Debug\_10.MarketingFirmEmployees.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\10. MarketingFirmEmployees\obj\Debug\_10.MarketingFirmEmployees.pdb

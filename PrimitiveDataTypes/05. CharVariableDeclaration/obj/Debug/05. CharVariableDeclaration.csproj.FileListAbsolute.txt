@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\05. CharVariableDeclaration\bin\Debug\_05.CharVariableDeclaration.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\05. CharVariableDeclaration\bin\Debug\_05.CharVariableDeclaration.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\05. CharVariableDeclaration\bin\Debug\_05.CharVariableDeclaration.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\05. CharVariableDeclaration\obj\Debug\_05.CharVariableDeclaration.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\PrimitiveDataTypes\05. CharVariableDeclaration\obj\Debug\_05.CharVariableDeclaration.pdb
