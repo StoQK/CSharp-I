@@ -1,0 +1,8 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb
+D:\Telerik\Academy\Homeworks\4. Вход и изход от конзолата\ConsoleInputOutput\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+D:\Telerik\Academy\Homeworks\4. Вход и изход от конзолата\ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+D:\Telerik\Academy\Homeworks\4. Вход и изход от конзолата\ConsoleInputOutput\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\05. NumberComparison\bin\Debug\_05.NumberComparison.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\05. NumberComparison\bin\Debug\_05.NumberComparison.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\05. NumberComparison\bin\Debug\_05.NumberComparison.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\05. NumberComparison\obj\Debug\_05.NumberComparison.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\05. NumberComparison\obj\Debug\_05.NumberComparison.pdb

@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\04. DivisionByFiveRemainderNumbers\bin\Debug\_04.DivisionByFiveRemainderNumbers.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\04. DivisionByFiveRemainderNumbers\bin\Debug\_04.DivisionByFiveRemainderNumbers.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\04. DivisionByFiveRemainderNumbers\bin\Debug\_04.DivisionByFiveRemainderNumbers.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\04. DivisionByFiveRemainderNumbers\obj\Debug\_04.DivisionByFiveRemainderNumbers.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\04. DivisionByFiveRemainderNumbers\obj\Debug\_04.DivisionByFiveRemainderNumbers.pdb

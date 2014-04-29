@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\09. FibonacciSequence\bin\Debug\_09.FibonacciSequence.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\09. FibonacciSequence\bin\Debug\_09.FibonacciSequence.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\09. FibonacciSequence\bin\Debug\_09.FibonacciSequence.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\09. FibonacciSequence\obj\Debug\_09.FibonacciSequence.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\ConsoleInputOutput\09. FibonacciSequence\obj\Debug\_09.FibonacciSequence.pdb
