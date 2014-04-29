@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\08. VariableConsoleOutput\bin\Debug\_08.VariableConsoleOutput.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\08. VariableConsoleOutput\bin\Debug\_08.VariableConsoleOutput.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\08. VariableConsoleOutput\bin\Debug\_08.VariableConsoleOutput.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\08. VariableConsoleOutput\obj\Debug\08. VariableConsoleOutput.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\08. VariableConsoleOutput\obj\Debug\_08.VariableConsoleOutput.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\08. VariableConsoleOutput\obj\Debug\_08.VariableConsoleOutput.pdb

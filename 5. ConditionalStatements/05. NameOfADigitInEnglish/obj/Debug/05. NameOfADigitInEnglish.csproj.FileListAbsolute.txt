@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\05. NameOfADigitInEnglish\bin\Debug\_05.NameOfADigitInEnglish.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\05. NameOfADigitInEnglish\bin\Debug\_05.NameOfADigitInEnglish.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\05. NameOfADigitInEnglish\bin\Debug\_05.NameOfADigitInEnglish.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\05. NameOfADigitInEnglish\obj\Debug\_05.NameOfADigitInEnglish.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\05. NameOfADigitInEnglish\obj\Debug\_05.NameOfADigitInEnglish.pdb

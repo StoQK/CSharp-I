@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\04. RealNumbersDescendingOrger\bin\Debug\_04.RealNumbersDescendingOrger.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\04. RealNumbersDescendingOrger\obj\Debug\04. RealNumbersDescendingOrger.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\04. RealNumbersDescendingOrger\bin\Debug\_04.RealNumbersDescendingOrger.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\04. RealNumbersDescendingOrger\bin\Debug\_04.RealNumbersDescendingOrger.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\04. RealNumbersDescendingOrger\obj\Debug\_04.RealNumbersDescendingOrger.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\ConditionalStatements\04. RealNumbersDescendingOrger\obj\Debug\_04.RealNumbersDescendingOrger.pdb
