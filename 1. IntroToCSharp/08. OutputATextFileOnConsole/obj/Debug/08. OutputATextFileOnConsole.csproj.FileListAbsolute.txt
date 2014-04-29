@@ -1,0 +1,15 @@
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\08. OutputATextFileOnConsole\bin\Debug\_08.OutputATextFileOnConsole.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\08. OutputATextFileOnConsole\bin\Debug\_08.OutputATextFileOnConsole.exe
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\08. OutputATextFileOnConsole\bin\Debug\_08.OutputATextFileOnConsole.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\08. OutputATextFileOnConsole.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\_08.OutputATextFileOnConsole.exe
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\_08.OutputATextFileOnConsole.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\08. OutputATextFileOnConsole\bin\Debug\_08.OutputATextFileOnConsole.exe.config
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\_08.OutputATextFileOnConsole.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\_08.OutputATextFileOnConsole.pdb
+D:\Telerik\Academy\Homeworks\1. Въведение в програмирането\MyFirstCSharpProgram\08. OutputATextFileOnConsole\bin\Debug\_08.OutputATextFileOnConsole.exe.config
+D:\Telerik\Academy\Homeworks\1. Въведение в програмирането\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\_08.OutputATextFileOnConsole.exe
+D:\Telerik\Academy\Homeworks\1. Въведение в програмирането\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\_08.OutputATextFileOnConsole.pdb
+D:\Telerik\Academy\Homeworks\1. Въведение в програмирането\MyFirstCSharpProgram\08. OutputATextFileOnConsole\bin\Debug\_08.OutputATextFileOnConsole.exe
+D:\Telerik\Academy\Homeworks\1. Въведение в програмирането\MyFirstCSharpProgram\08. OutputATextFileOnConsole\bin\Debug\_08.OutputATextFileOnConsole.pdb
+D:\Telerik\Academy\Homeworks\1. Въведение в програмирането\MyFirstCSharpProgram\08. OutputATextFileOnConsole\obj\Debug\08. OutputATextFileOnConsole.csprojResolveAssemblyReference.cache

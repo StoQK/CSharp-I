@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\09. PointWithinCircleOutOfRectangle\bin\Debug\_09.PointWithinCircleOutOfRectangle.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\09. PointWithinCircleOutOfRectangle\bin\Debug\_09.PointWithinCircleOutOfRectangle.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\09. PointWithinCircleOutOfRectangle\bin\Debug\_09.PointWithinCircleOutOfRectangle.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\09. PointWithinCircleOutOfRectangle\obj\Debug\_09.PointWithinCircleOutOfRectangle.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\09. PointWithinCircleOutOfRectangle\obj\Debug\_09.PointWithinCircleOutOfRectangle.pdb

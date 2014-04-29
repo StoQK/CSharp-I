@@ -1,0 +1,10 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\06. SquareRoot\bin\Debug\_06.SquareRoot.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\06. SquareRoot\bin\Debug\_06.SquareRoot.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\06. SquareRoot\bin\Debug\_06.SquareRoot.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\06. SquareRoot\obj\Debug\_06.SquareRoot.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\06. SquareRoot\obj\Debug\_06.SquareRoot.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\06. SquareRoot\bin\Debug\_06.SquareRoot.exe.config
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\06. SquareRoot\obj\Debug\_06.SquareRoot.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\06. SquareRoot\obj\Debug\_06.SquareRoot.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\06. SquareRoot\bin\Debug\_06.SquareRoot.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\06. SquareRoot\bin\Debug\_06.SquareRoot.pdb

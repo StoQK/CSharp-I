@@ -1,0 +1,12 @@
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\bin\Debug\_07.PositiveEvenNegativeOddNumbers.exe.config
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\bin\Debug\_07.PositiveEvenNegativeOddNumbers.exe
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\bin\Debug\_07.PositiveEvenNegativeOddNumbers.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\obj\Debug\07. PositiveEvenNegativeOddNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\obj\Debug\_07.PositiveEvenNegativeOddNumbers.exe
+C:\Users\Stoyan\Documents\Visual Studio 2012\Projects\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\obj\Debug\_07.PositiveEvenNegativeOddNumbers.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\bin\Debug\_07.PositiveEvenNegativeOddNumbers.exe.config
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\obj\Debug\_07.PositiveEvenNegativeOddNumbers.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\obj\Debug\_07.PositiveEvenNegativeOddNumbers.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\bin\Debug\_07.PositiveEvenNegativeOddNumbers.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\bin\Debug\_07.PositiveEvenNegativeOddNumbers.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\07. PositiveEvenNegativeOddNumbers\obj\Debug\07. PositiveEvenNegativeOddNumbers.csprojResolveAssemblyReference.cache

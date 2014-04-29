@@ -1,0 +1,10 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\05.DateAndTime\bin\Debug\05.DateAndTime.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\05.DateAndTime\bin\Debug\05.DateAndTime.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\05.DateAndTime\bin\Debug\05.DateAndTime.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\05.DateAndTime\obj\Debug\05.DateAndTime.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\05.DateAndTime\obj\Debug\05.DateAndTime.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\05.DateAndTime\bin\Debug\05.DateAndTime.exe.config
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\05.DateAndTime\obj\Debug\05.DateAndTime.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\05.DateAndTime\obj\Debug\05.DateAndTime.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\05.DateAndTime\bin\Debug\05.DateAndTime.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\05.DateAndTime\bin\Debug\05.DateAndTime.pdb

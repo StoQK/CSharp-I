@@ -1,0 +1,8 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\04. FirstAndLastName\bin\Debug\_04.FirstAndLastName.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\04. FirstAndLastName\bin\Debug\_04.FirstAndLastName.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\04. FirstAndLastName\bin\Debug\_04.FirstAndLastName.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\04. FirstAndLastName\obj\Debug\_04.FirstAndLastName.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\MyFirstCSharpProgram\04. FirstAndLastName\obj\Debug\_04.FirstAndLastName.pdb
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\04. FirstAndLastName\bin\Debug\_04.FirstAndLastName.exe.config
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\04. FirstAndLastName\obj\Debug\_04.FirstAndLastName.exe
+D:\Telerik\Academy\Homeworks\MyFirstCSharpProgram\04. FirstAndLastName\obj\Debug\_04.FirstAndLastName.pdb

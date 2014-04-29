@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\04. IsThirdDigitSeven\bin\Debug\_04.IsThirdDigitSeven.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\04. IsThirdDigitSeven\bin\Debug\_04.IsThirdDigitSeven.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\04. IsThirdDigitSeven\bin\Debug\_04.IsThirdDigitSeven.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\04. IsThirdDigitSeven\obj\Debug\_04.IsThirdDigitSeven.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\04. IsThirdDigitSeven\obj\Debug\_04.IsThirdDigitSeven.pdb

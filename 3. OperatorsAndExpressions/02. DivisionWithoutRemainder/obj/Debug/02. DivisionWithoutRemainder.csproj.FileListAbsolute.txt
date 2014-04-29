@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\02. DivisionWithoutRemainder\bin\Debug\_02.DivisionWithoutRemainder.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\02. DivisionWithoutRemainder\bin\Debug\_02.DivisionWithoutRemainder.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\02. DivisionWithoutRemainder\bin\Debug\_02.DivisionWithoutRemainder.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\02. DivisionWithoutRemainder\obj\Debug\_02.DivisionWithoutRemainder.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\02. DivisionWithoutRemainder\obj\Debug\_02.DivisionWithoutRemainder.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\02. DivisionWithoutRemainder\obj\Debug\02. DivisionWithoutRemainder.csprojResolveAssemblyReference.cache

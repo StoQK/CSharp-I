@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\05. IsBitThreeOneOrZero\bin\Debug\_05.IsBitThreeOneOrZero.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\05. IsBitThreeOneOrZero\bin\Debug\_05.IsBitThreeOneOrZero.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\05. IsBitThreeOneOrZero\bin\Debug\_05.IsBitThreeOneOrZero.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\05. IsBitThreeOneOrZero\obj\Debug\_05.IsBitThreeOneOrZero.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\05. IsBitThreeOneOrZero\obj\Debug\_05.IsBitThreeOneOrZero.pdb

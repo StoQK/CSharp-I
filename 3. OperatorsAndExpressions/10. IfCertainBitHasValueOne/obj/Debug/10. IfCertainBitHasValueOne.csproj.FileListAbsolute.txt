@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\10. IfCertainBitHasValueOne\bin\Debug\_10.IfCertainBitHasValueOne.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\10. IfCertainBitHasValueOne\bin\Debug\_10.IfCertainBitHasValueOne.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\10. IfCertainBitHasValueOne\bin\Debug\_10.IfCertainBitHasValueOne.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\10. IfCertainBitHasValueOne\obj\Debug\_10.IfCertainBitHasValueOne.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\10. IfCertainBitHasValueOne\obj\Debug\_10.IfCertainBitHasValueOne.pdb

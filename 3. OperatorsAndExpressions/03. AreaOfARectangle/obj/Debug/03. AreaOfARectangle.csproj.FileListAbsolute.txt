@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\03. AreaOfARectangle\bin\Debug\_03.AreaOfARectangle.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\03. AreaOfARectangle\bin\Debug\_03.AreaOfARectangle.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\03. AreaOfARectangle\bin\Debug\_03.AreaOfARectangle.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\03. AreaOfARectangle\obj\Debug\_03.AreaOfARectangle.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\OperatorsAndExpressions\03. AreaOfARectangle\obj\Debug\_03.AreaOfARectangle.pdb
