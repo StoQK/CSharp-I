@@ -1,0 +1,5 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\03. MinAndMaxNumberOfASequence\bin\Debug\_03.MinAndMaxNumberOfASequence.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\03. MinAndMaxNumberOfASequence\bin\Debug\_03.MinAndMaxNumberOfASequence.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\03. MinAndMaxNumberOfASequence\bin\Debug\_03.MinAndMaxNumberOfASequence.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\03. MinAndMaxNumberOfASequence\obj\Debug\_03.MinAndMaxNumberOfASequence.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\03. MinAndMaxNumberOfASequence\obj\Debug\_03.MinAndMaxNumberOfASequence.pdb

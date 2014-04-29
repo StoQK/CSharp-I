@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\09. NCathalanNumber\bin\Debug\_09.NCathalanNumber.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\09. NCathalanNumber\bin\Debug\_09.NCathalanNumber.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\09. NCathalanNumber\bin\Debug\_09.NCathalanNumber.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\09. NCathalanNumber\obj\Debug\09. NCatalanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\09. NCathalanNumber\obj\Debug\_09.NCathalanNumber.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\09. NCathalanNumber\obj\Debug\_09.NCathalanNumber.pdb

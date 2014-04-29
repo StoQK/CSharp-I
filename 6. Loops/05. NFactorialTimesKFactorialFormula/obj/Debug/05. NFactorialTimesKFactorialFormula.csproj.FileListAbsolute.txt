@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\05. NFactorialTimesKFactorialFormula\bin\Debug\_05.NFactorialTimesKFactorialFormula.exe.config
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\05. NFactorialTimesKFactorialFormula\bin\Debug\_05.NFactorialTimesKFactorialFormula.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\05. NFactorialTimesKFactorialFormula\bin\Debug\_05.NFactorialTimesKFactorialFormula.pdb
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\05. NFactorialTimesKFactorialFormula\obj\Debug\_05.NFactorialTimesKFactorialFormula.exe
+c:\users\stoyan\documents\visual studio 2012\Projects\Loops\05. NFactorialTimesKFactorialFormula\obj\Debug\_05.NFactorialTimesKFactorialFormula.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\05. NFactorialTimesKFactorialFormula\obj\Debug\05. NFactorialTimesKFactorialFormula.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\11. PrintMatrix\bin\Debug\_11.PrintMatrix.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\11. PrintMatrix\obj\Debug\_11.PrintMatrix.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\11. PrintMatrix\obj\Debug\_11.PrintMatrix.pdb

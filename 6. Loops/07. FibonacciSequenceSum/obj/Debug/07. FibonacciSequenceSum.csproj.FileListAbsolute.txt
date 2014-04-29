@@ -1,0 +1,5 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\07. FibonacciSequenceSum\bin\Debug\_07.FibonacciSequenceSum.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\07. FibonacciSequenceSum\bin\Debug\_07.FibonacciSequenceSum.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\07. FibonacciSequenceSum\bin\Debug\_07.FibonacciSequenceSum.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\07. FibonacciSequenceSum\obj\Debug\_07.FibonacciSequenceSum.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\07. FibonacciSequenceSum\obj\Debug\_07.FibonacciSequenceSum.pdb

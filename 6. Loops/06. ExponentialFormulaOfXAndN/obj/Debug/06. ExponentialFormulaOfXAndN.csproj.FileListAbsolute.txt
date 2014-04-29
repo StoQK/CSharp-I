@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\06. ExponentialFormulaOfXAndN\bin\Debug\_06.ExponentialFormulaOfXAndN.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\06. ExponentialFormulaOfXAndN\bin\Debug\_06.ExponentialFormulaOfXAndN.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\06. ExponentialFormulaOfXAndN\bin\Debug\_06.ExponentialFormulaOfXAndN.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\06. ExponentialFormulaOfXAndN\obj\Debug\06. ExponentialFormulaOfXAndN.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\06. ExponentialFormulaOfXAndN\obj\Debug\_06.ExponentialFormulaOfXAndN.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\06. ExponentialFormulaOfXAndN\obj\Debug\_06.ExponentialFormulaOfXAndN.pdb

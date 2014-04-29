@@ -1,0 +1,6 @@
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\13. TrailingZeroesFactorial\bin\Debug\_13.TrailingZeroesFactorial.exe.config
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\13. TrailingZeroesFactorial\bin\Debug\_13.TrailingZeroesFactorial.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\13. TrailingZeroesFactorial\bin\Debug\_13.TrailingZeroesFactorial.pdb
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\13. TrailingZeroesFactorial\obj\Debug\13. TrailingZeroesFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\13. TrailingZeroesFactorial\obj\Debug\_13.TrailingZeroesFactorial.exe
+C:\Users\Stoyan\documents\visual studio 2012\Projects\Loops\13. TrailingZeroesFactorial\obj\Debug\_13.TrailingZeroesFactorial.pdb
